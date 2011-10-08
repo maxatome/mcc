@@ -11,7 +11,7 @@ are not allowed in all circumstances.
 
 The F<Makefile> is a BSD one.
 
-This stuff is known to work on L<FreeBSD|http://FreeBSD.org>.
+This stuff is known to work on FreeBSD L<http://FreeBSD.org>.
 
 There is no support, so please don't ask.
 
